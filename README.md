@@ -19,7 +19,4 @@ Automatically highlights important job-specific keywords or technical skills tha
 ### AI-Based Phrasing Suggestions  
 For each missing keyword, the app suggests strong, professional bullet-point rewrites — helping you express experience and skills naturally while boosting ATS visibility.  
 
-### Clean and Intuitive Interface  
-A simple Tkinter-based GUI lets you upload your résumé (PDF), paste the job description, and instantly view results — all locally, no external API calls.  
-
 ---
