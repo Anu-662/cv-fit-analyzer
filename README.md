@@ -86,6 +86,5 @@ The application will open in your default browser at `http://localhost:8501`
 
 **Total per complete analysis:** ~12,000-30,000 tokens
 
-With the free tier, you can analyze approximately 50-100 resumes per day.
 
-### Paid Tier Pricing
+
