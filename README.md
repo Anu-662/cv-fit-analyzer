@@ -28,7 +28,7 @@ An AI-powered tool that analyzes resumes against job descriptions, provides ATS 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/resume-optimizer.git
+git clone https://github.com/Anu-662/cv-fit-analyzer
 cd resume-optimizer
 ```
 
