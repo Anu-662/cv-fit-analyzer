@@ -5,8 +5,7 @@
 Whether you're prepping for an internship, tailoring your résumé for a specific role, or simply curious about how recruiters’ algorithms interpret your CV — this tool gives you instant, actionable insights.
 
 ---
-
-##Features
+Features
 
 ###  Smart Keyword Matching  
 Compares your CV and job description semantically (not just word-to-word) using **KeyBERT** and **Sentence Transformers** for a more realistic fit score.  
