@@ -29,7 +29,7 @@ An AI-powered tool that analyzes resumes against job descriptions, provides ATS 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Anu-662/cv-fit-analyzer
-cd resume-optimizer
+cd cv-fit-analyzer
 ```
 
 ### 2. Install dependencies
